@@ -1,4 +1,4 @@
-# MultiThreading-C-
+# MultiThreading-C++
 Hands on code of MultiThreading
 
 ## Educational Examples
