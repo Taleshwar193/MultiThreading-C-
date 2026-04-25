@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Executables
+Condition_Variable
+Producer_Consumer
+Thread_pool
+*.out
+*.exe
+
+# Build directories
+build/
+bin/
